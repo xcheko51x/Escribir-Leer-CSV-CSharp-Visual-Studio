@@ -1,0 +1,7 @@
+D:\VisualStudioProyects\EscribirLeerCSV\bin\Debug\EjemploLeerCSV.exe.config
+D:\VisualStudioProyects\EscribirLeerCSV\bin\Debug\EjemploLeerCSV.exe
+D:\VisualStudioProyects\EscribirLeerCSV\bin\Debug\EjemploLeerCSV.pdb
+D:\VisualStudioProyects\EscribirLeerCSV\obj\Debug\EscribirLeerCSV.csprojAssemblyReference.cache
+D:\VisualStudioProyects\EscribirLeerCSV\obj\Debug\EscribirLeerCSV.csproj.CoreCompileInputs.cache
+D:\VisualStudioProyects\EscribirLeerCSV\obj\Debug\EjemploLeerCSV.exe
+D:\VisualStudioProyects\EscribirLeerCSV\obj\Debug\EjemploLeerCSV.pdb
